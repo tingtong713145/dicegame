@@ -1,0 +1,50 @@
+.msg {
+    margin-top: 50px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding-left: 20%;
+    padding-right: 20%;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    background-color: aqua;
+}
+
+.container {
+    background-color: aquamarine;
+    background-image: url("wood.jpg");
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    margin-top: 20rem;
+    margin-bottom: 20rem;
+}
+
+body {
+    background-color: rgb(233, 231, 95);
+    background-image: url("background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.play {
+    display: inline-block;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    background-color: aqua;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
